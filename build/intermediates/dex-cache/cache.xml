@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ee28fc7768e60ecc7a559c6573ee92fba2bcccf7.jar" />
+    </item>
+    <item
+        jar="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/pre-dexed/debug/classes-5cd93400a0f4f8450a94bd0f1f8a0f1572a05cec.jar" />
+    </item>
+    <item
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-ab5a285b61cabcbdc5a4226759d71c270eecd4e8.jar" />
+    </item>
+    <item
+        jar="/home/diego/AndroidStudioProjects/datasend-test/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-68419ee03b918fa0a8bb5cb4d4d7c287d9a45eb8.jar" />
+    </item>
+    <item
+        jar="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/diego/AndroidStudioProjects/datasend-test/app/build/intermediates/pre-dexed/debug/classes-a135fa093172fa8c45afb51b4807a3f123ae821f.jar" />
+    </item>
+
+</items>
